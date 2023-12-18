@@ -10,7 +10,7 @@ while(andares > 0):
     andares = andares - 1
     
 # código indo até o número 21 pois se o núemro 13 foi retirado
-# e se são 20 andares, deverar ir até o  andar 2
+# e se são 20 andares, deverar ir até o  andar 21
         
     
 
