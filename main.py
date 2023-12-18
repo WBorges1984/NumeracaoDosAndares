@@ -1,13 +1,14 @@
-andares = 22;
+andares = 21;
 IgnorarNumer= 13;
 count =1;
-while(count < andares):
-    if count == IgnorarNumer:
+while(andares > 0):
+    if andares == IgnorarNumer:
         print("")
         
     else:
-        print("Andar: ", count);
-    count = count + 1
+        print("Andar: ", andares);
+    andares = andares - 1
+    
     
         
     
